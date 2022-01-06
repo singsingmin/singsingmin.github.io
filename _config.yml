@@ -36,6 +36,14 @@ plugins:
   - jekyll-feed
 category_dir: category/
 tag_dir: tag/
+default:
+  # _pages
+  - scope:
+  path: "_pages"
+  type: pages
+  values:
+  layout: page
+  author_profile: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
