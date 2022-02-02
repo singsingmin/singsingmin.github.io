@@ -44,7 +44,7 @@ default:
   values:
   layout: page
   author_profile: true
-futrue: ture
+future: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
