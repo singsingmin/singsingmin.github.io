@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Java] "contains, indexOf, matches" : 문자열 포함여부 확인하기
+title: "contains, indexOf, matches" "-" 문자열 포함여부 확인하기
 date: 2022-02-02 21:05:23 +0900
 category: java
 ---
