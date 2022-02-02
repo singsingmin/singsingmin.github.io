@@ -3,6 +3,7 @@ layout: post
 title: [Java] contains/indexOf/matches : 문자열 포함여부 확인하기
 date: 2022-01-29 15:40:23 +0900
 category: java
+published: true
 ---
 # contains
 > 문자열에 검색 하고자 하는 문자가 있는 지 확인 : 포함 - [true] / 미포함 - [false]
