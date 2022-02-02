@@ -27,7 +27,7 @@ if(text.indexOf(",") > -1) {
 ```
 
 # matches
-> 특정 패턴(정규표현식)의 문자열을 포함하는지 확인 : 포함 - [true]] / 미포함 - [false]
+> 특정 패턴(정규표현식)의 문자열을 포함하는지 확인 : 포함 - [true] / 미포함 - [false]
 
 This is code
 ```ruby
